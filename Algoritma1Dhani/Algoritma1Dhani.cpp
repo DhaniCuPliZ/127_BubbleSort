@@ -59,3 +59,13 @@ void display() {
 	cout << endl;
 
 }
+
+int main() {
+
+	input();
+	bubbleSortyArray();
+	display();
+	system("pause");
+
+	return 0;
+}
